@@ -41,6 +41,6 @@ class MovieAdmin(admin.ModelAdmin):
     list_display = ('title', 'director', 'release_date', 'genre', 'rating','duration')
 ```
 ## OUTPUT
-
+![alt text](image.png)
 ## RESULT
 Thus the program for creating movies database using ORM hass been executed successfully
